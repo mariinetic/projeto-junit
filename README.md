@@ -38,15 +38,6 @@ Pra rodar tudo de uma vez (build + test + relatório de cobertura):
 mvn clean test
 ```
 
-## Como ver o relatório de cobertura (JaCoCo)
-
-Depois de rodar `mvn test`, o relatório fica em:
-```
-target/site/jacoco/index.html
-```
-
-É só abrir esse arquivo no navegador pra ver os percentuais de cobertura.
-
 <img width="686" height="247" alt="image" src="https://github.com/user-attachments/assets/2f470e31-0ab0-4c5b-bc29-00aa43df3ea3" />
 
 
