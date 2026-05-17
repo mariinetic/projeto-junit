@@ -48,7 +48,7 @@ target/site/jacoco/index.html
 É só abrir esse arquivo no navegador pra ver os percentuais de cobertura.
 
 <img width="686" height="247" alt="image" src="https://github.com/user-attachments/assets/2f470e31-0ab0-4c5b-bc29-00aa43df3ea3" />
-<img width="813" height="133" alt="image" src="https://github.com/user-attachments/assets/027d2e92-bd6b-4025-bc63-3dcfb44c2bda" />
+
 
 
 ## Exercícios
@@ -68,7 +68,8 @@ Classifica 3 lados de um triângulo em **EQUILÁTERO**, **ISÓSCELES** ou **ESCA
 
 **Evidência de cobertura:**
 
-> _Cole aqui o print do relatório do JaCoCo (target/site/jacoco/index.html) referente ao pacote `exercicio1`._
+<img width="348" height="63" alt="image" src="https://github.com/user-attachments/assets/3dc939b3-3760-4a7f-9132-0be10d8333c5" />
+
 
 ### Exercício 2 - PersonDAO.isValidToInclude
 
@@ -91,7 +92,7 @@ Valida um objeto `Person` retornando uma lista de erros. As validações são:
 
 **Evidência de cobertura:**
 
-> _Cole aqui o print do relatório do JaCoCo referente ao pacote `exercicio2`._
+<img width="337" height="87" alt="image" src="https://github.com/user-attachments/assets/f8464575-5cef-4a7a-860c-9288200b1587" />
 
 ### Exercício 3 - Calculadora de Salário
 
@@ -112,8 +113,12 @@ Calcula o salário líquido de um funcionário aplicando o desconto conforme o c
 
 **Evidência de cobertura:**
 
-> _Cole aqui o print do relatório do JaCoCo referente ao pacote `exercicio3`._
+<img width="339" height="100" alt="image" src="https://github.com/user-attachments/assets/c52b7739-6389-4ac8-97c5-54e2f84faed7" />
+
 
 ## Observação sobre TDD
 
 Os exercícios 2 e 3 foram desenvolvidos seguindo a ideia do TDD: pensei primeiro nos casos de teste a partir do enunciado, escrevi os testes e depois fui implementando a classe até todos passarem. No exercício 1, escrevi a classe e os testes em paralelo, já que a lógica era bem direta.
+
+<img width="1365" height="696" alt="image" src="https://github.com/user-attachments/assets/e21e5ff6-faa5-4d27-be68-07a615202794" />
+
