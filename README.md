@@ -1,3 +1,5 @@
+<img width="745" height="154" alt="image" src="https://github.com/user-attachments/assets/c10e1bb0-56a7-47d2-bc25-0e43dd829a0b" />
+
 # Projeto JUnit + TDD
 
 Projeto com 3 exercícios usando Java, JUnit 5 e JaCoCo pra cobertura.
